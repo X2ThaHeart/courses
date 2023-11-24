@@ -1,3 +1,3 @@
 # courses
 Courses Completed
-!(An Introduction to Python Programming.jpg)
+!(An%20Introduction%20to%20Python%20Programming.jpg)
